@@ -3404,7 +3404,6 @@
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.mbm.cn.miaozhen.com
 127.0.0.1 msg.ptqy.gitv.tv
-127.0.0.1 msoftdl.360.cn
 127.0.0.1 mstr.sharethrough.com
 127.0.0.1 m.symab.cn
 127.0.0.1 m.tixing51.net
@@ -3515,7 +3514,7 @@
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 pdheuryopd.loan
-127.0.0.1 pdown.stat.360safe.com
+
 127.0.0.1 pearno.com
 127.0.0.1 pertholin.com
 127.0.0.1 p.estream.to
@@ -4182,7 +4181,7 @@
 127.0.0.1 unrummaged.com
 127.0.0.1 uoldid.ru
 127.0.0.1 update.123juzi.net
-127.0.0.1 update.360safe.com
+
 127.0.0.1 update.minipage.2345.com
 127.0.0.1 urd103.analysys.cn
 127.0.0.1 urd240.analysys.cn
