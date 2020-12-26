@@ -2847,7 +2847,6 @@
 127.0.0.1 dl1sw.baidu.com
 127.0.0.1 dl.2345.com
 127.0.0.1 dl2.bav.baidu.com
-127.0.0.1 dl.360safe.com
 127.0.0.1 dl.browsermine.com
 127.0.0.1 dl.nx5.com
 127.0.0.1 dl.ops.baidu.com
