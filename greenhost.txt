@@ -743,7 +743,6 @@
 127.0.0.1 in.hkfuy.com
 127.0.0.1 in.hystq.com
 127.0.0.1 ininmacerad.pro
-127.0.0.1 ini.update.360safe.com
 127.0.0.1 in.jghcy.com
 127.0.0.1 in.jxhcyc.com
 127.0.0.1 in.mgwcn.com
@@ -753,7 +752,7 @@
 127.0.0.1 in.qqhpg.com
 127.0.0.1 in.qzkxt.com
 127.0.0.1 inside.rtbasia.com
-127.0.0.1 inst.360safe.com
+
 127.0.0.1 intactoffers.club
 127.0.0.1 integration.sharethrough.com
 127.0.0.1 intf.cnzz.com
@@ -1037,7 +1036,6 @@
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.mbm.cn.miaozhen.com
 127.0.0.1 msg.ptqy.gitv.tv
-127.0.0.1 msoftdl.360.cn
 127.0.0.1 mstr.sharethrough.com
 127.0.0.1 m.symab.cn
 127.0.0.1 m.tixing51.net
@@ -1148,7 +1146,6 @@
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 pdheuryopd.loan
-127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 pearno.com
 127.0.0.1 pertholin.com
 127.0.0.1 p.estream.to
@@ -1815,7 +1812,6 @@
 127.0.0.1 unrummaged.com
 127.0.0.1 uoldid.ru
 127.0.0.1 update.123juzi.net
-127.0.0.1 update.360safe.com
 127.0.0.1 update.minipage.2345.com
 127.0.0.1 urd103.analysys.cn
 127.0.0.1 urd240.analysys.cn
@@ -2865,8 +2861,7 @@
 127.0.0.1 dongtaiwang.com
 127.0.0.1 dongtaiwang.org
 127.0.0.1 do-not-tracker.org
-127.0.0.1 down.360.cn
-127.0.0.1 down.360safe.com
+
 127.0.0.1 download.2345.com
 127.0.0.1 download.350.com
 127.0.0.1 download.bav.baidu.com
