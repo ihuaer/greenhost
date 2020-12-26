@@ -664,7 +664,6 @@
 127.0.0.1 hodlers.party
 127.0.0.1 hodling.faith
 127.0.0.1 host.d-ns.ga
-127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 houtai.2345.com
 127.0.0.1 houyi.logger.baofeng.com
 127.0.0.1 hq.appsflyer.com
@@ -1637,7 +1636,7 @@
 127.0.0.1 s.hk9600.com
 127.0.0.1 s.hkfuy.com
 127.0.0.1 shopify.staging2.crazyegg.com
-127.0.0.1 shouji.360.cn
+
 127.0.0.1 shrek.6.cn
 127.0.0.1 s.hystq.com
 127.0.0.1 silimbompom.com
@@ -3031,7 +3030,7 @@
 127.0.0.1 hodlers.party
 127.0.0.1 hodling.faith
 127.0.0.1 host.d-ns.ga
-127.0.0.1 hot.m.shouji.360tpcdn.com
+
 127.0.0.1 houtai.2345.com
 127.0.0.1 houyi.logger.baofeng.com
 127.0.0.1 hq.appsflyer.com
@@ -3110,7 +3109,7 @@
 127.0.0.1 in.hkfuy.com
 127.0.0.1 in.hystq.com
 127.0.0.1 ininmacerad.pro
-127.0.0.1 ini.update.360safe.com
+
 127.0.0.1 in.jghcy.com
 127.0.0.1 in.jxhcyc.com
 127.0.0.1 in.mgwcn.com
@@ -3120,7 +3119,7 @@
 127.0.0.1 in.qqhpg.com
 127.0.0.1 in.qzkxt.com
 127.0.0.1 inside.rtbasia.com
-127.0.0.1 inst.360safe.com
+
 127.0.0.1 intactoffers.club
 127.0.0.1 integration.sharethrough.com
 127.0.0.1 intf.cnzz.com
@@ -4006,7 +4005,7 @@
 127.0.0.1 s.hk9600.com
 127.0.0.1 s.hkfuy.com
 127.0.0.1 shopify.staging2.crazyegg.com
-127.0.0.1 shouji.360.cn
+
 127.0.0.1 shrek.6.cn
 127.0.0.1 s.hystq.com
 127.0.0.1 silimbompom.com
