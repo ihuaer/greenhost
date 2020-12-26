@@ -475,7 +475,7 @@
 127.0.0.1 dl1sw.baidu.com
 127.0.0.1 dl.2345.com
 127.0.0.1 dl2.bav.baidu.com
-127.0.0.1 dl.360safe.com
+
 127.0.0.1 dl.browsermine.com
 127.0.0.1 dl.nx5.com
 127.0.0.1 dl.ops.baidu.com
@@ -494,8 +494,7 @@
 127.0.0.1 dongtaiwang.com
 127.0.0.1 dongtaiwang.org
 127.0.0.1 do-not-tracker.org
-127.0.0.1 down.360.cn
-127.0.0.1 down.360safe.com
+
 127.0.0.1 download.2345.com
 127.0.0.1 download.350.com
 127.0.0.1 download.bav.baidu.com
