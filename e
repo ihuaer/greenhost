@@ -1,5 +1,8 @@
 
 ##########################
+127.0.0.1 cap.cyberlink.com
+127.0.0.1 activation.cyberlink.com
+
 127.0.0.1 haxnode.net
 #emby
 199.232.68.133 raw.githubusercontent.com
