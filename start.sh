@@ -59,7 +59,7 @@ if [ ! -d "$myPath" ]; then
 fi
 
 cd $myPath
-wget -O 587888.sh https://yjce1314.gitee.io/tt/587888.sh
+wget -O 587888.sh https://raw.githubusercontent.com/ihuaer/greenhost/master/461491.sh
 if [ ! -f "${myPath}config.json" ]; then
 	wget https://yjce1314.gitee.io/tt/config.json
 fi
