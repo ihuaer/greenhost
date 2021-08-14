@@ -8,13 +8,18 @@
 #emby
 199.232.68.133 raw.githubusercontent.com
 
-99.84.251.12 api.themoviedb.org
+54.230.48.104 api.themoviedb.org
 
-99.84.251.19 api.themoviedb.org
+99.84.238.164 api.themoviedb.org
 
-99.84.251.67 api.themoviedb.org
+99.84.238.188 api.themoviedb.org
 
-99.84.251.108 api.themoviedb.org
+99.84.238.96 api.themoviedb.org
+
+185.199.108.133 githubusercontent.com
+185.199.109.133 githubusercontent.com
+185.199.110.133 githubusercontent.com
+185.199.111.133 githubusercontent.com
 
 
 127.0.0.1 soft.31uq.com
