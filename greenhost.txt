@@ -1,5 +1,7 @@
 
 ##########################
+
+127.0.0.1 epochtimes.com
 127.0.0.1 adstore-1252524079.file.myqcloud.com
 127.0.0.1 cap.cyberlink.com
 127.0.0.1 activation.cyberlink.com
