@@ -1,6 +1,17 @@
 
 ##########################
 
+# 屏蔽Microsoft Edge启动页广告
+0.0.0.0 c.msn.com
+0.0.0.0 ntp.msn.com
+0.0.0.0 ntp.msn.cn
+0.0.0.0 assets.msn.cn
+0.0.0.0 api.msn.com
+0.0.0.0 browser.events.data.msn.com
+#0.0.0.0 edge.activity.windows.com
+0.0.0.0 img-s-msn-com.akamaized.net
+
+
 127.0.0.1 epochtimes.com
 127.0.0.1 adstore-1252524079.file.myqcloud.com
 127.0.0.1 cap.cyberlink.com
