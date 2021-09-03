@@ -1,6 +1,6 @@
 
 ##########################
-
+0.0.0.0 inasian.club
 # 屏蔽Microsoft Edge启动页广告
 0.0.0.0 c.msn.com
 0.0.0.0 ntp.msn.com
