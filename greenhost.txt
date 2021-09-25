@@ -134,16 +134,7 @@
 127.0.0.1 de.pandora.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 device.io.mi.com
-127.0.0.1 f1.market.xiaomi.com
-127.0.0.1 f2.market.xiaomi.com
-127.0.0.1 f3.market.xiaomi.com
-127.0.0.1 f4.market.xiaomi.com
-127.0.0.1 f5.market.xiaomi.com
-127.0.0.1 f1.market.mi-img.com
-127.0.0.1 f2.market.mi-img.com
-127.0.0.1 f3.market.mi-img.com
-127.0.0.1 f4.market.mi-img.com
-127.0.0.1 f5.market.mi-img.com
+
 127.0.0.1 file.xmpush.xiaomi.com
 127.0.0.1 gvod.aiseejapp.atianqi.com
 127.0.0.1 g.dtv.cn.miaozhan.com
