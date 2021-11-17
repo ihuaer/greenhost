@@ -1,7 +1,7 @@
 
 ##########################
 127.0.0.1 bendprey.com
-
+127.0.0.1 ggv.cmvideo.cn
 0.0.0.0 inasian.club
 0.0.0.0 inasian.online
 # 屏蔽Microsoft Edge启动页广告
