@@ -1,5 +1,6 @@
 
 ##########################
+127.0.0.1 desktop.parallels.com
 127.0.0.1 bendprey.com
 127.0.0.1 ggv.cmvideo.cn
 0.0.0.0 inasian.club
