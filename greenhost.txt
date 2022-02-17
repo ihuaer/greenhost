@@ -1,5 +1,6 @@
 
 ##########################
+127.0.0.1 windowsfront.com
 127.0.0.1 txtpdf.cn
 127.0.0.1 desktop.parallels.com
 127.0.0.1 bendprey.com
