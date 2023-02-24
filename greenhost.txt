@@ -18,3 +18,9 @@
 127.0.0.1 data.video.ptqy.gitv.tv
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 valipl.cp31.ott.cibntv.net
+
+#
+54.192.18.100 api.themoviedb.org
+13.32.27.95 api.themoviedb.org
+13.226.228.7 api.themoviedb.org
+13.227.62.64 api.themoviedb.org
