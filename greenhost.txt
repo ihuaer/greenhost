@@ -4,11 +4,12 @@
 #爱奇艺
 127.0.0.1 verycloudcdnct.inter.ptqy.gitv.tv
 127.0.0.1 ctyuncdnct.inter.ptqy.gitv.tv
-
+127.0.0.1 gdctyuncdnct.inter.ptqy.gitv.tv
 #腾讯
 127.0.0.1 defaultts.tc.qq.com
 127.0.0.1 vmind.qqvideo.tc.qq.com
 127.0.0.1 fs64837c5b.a.bdydns.com
+127.0.0.1 verycloudcdnct.inter.ptqy.gitv.tv
 
 #海信
 127.0.0.1 unified-ter.hismarttv.com
@@ -18,6 +19,7 @@
 127.0.0.1 data.video.ptqy.gitv.tv
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 valipl.cp31.ott.cibntv.net
+127.0.0.1 valipl-bk.cp31.ott.cibntv.net
 
 #
 54.192.18.100 api.themoviedb.org
